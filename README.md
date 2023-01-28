@@ -68,4 +68,4 @@ _Keep in mind that debug builds aren't capable of online features!_
 ## License
 
 **rimu!** is licensed under the [Apache License 2.0](https://opensource.org/licenses/Apache-2.0). Please see the licence
-file for more information.
+file for more information. hehehhe
